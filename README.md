@@ -63,6 +63,7 @@ cd ~/crkbd-custom-firmware
 | `default/config.h` | `BONGO_ENABLE`定義 |
 | `default/keymap.c` | キーマップ（VIAで変更可能） |
 | `default/rules.mk` | VIA有効、RGB無効など |
+| `keymap_bk/` | VIAレイアウトバックアップ（JSON） |
 
 ## カスタマイズメモ
 
